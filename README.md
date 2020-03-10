@@ -1,4 +1,5 @@
 # Log Parser
+[![Circle CI](https://circleci.com/gh/RomainAlexandre/log_parser.svg?style=shield)](https://circleci.com/gh/RomainAlexandre/log_parser.app)
 
 A simple log parser that prints two list:
 - Webpages with most page views ordered by number of views
